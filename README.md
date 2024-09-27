@@ -3,7 +3,7 @@
 - 🎓 I hold a degree in <u>Data Science</u> from CY Tech engineering school and studied <u>Operational Research</u> and <u>Decision Support</u> at PSL-Dauphine University, France.
 - 🔭 Currently focused on enhancing my <u>Machine Learning</u> skills through hands-on projects.
 - 🧩 Fun fact: I love <u>solving puzzles and games</u>, so you’ll find plenty of challenges on this page featuring well-known problems like Sudoku and chess.
-- 🌱 This repository marks the start of an exciting adventure in the world of IT after completing my studies. Let's see where it takes me! 🚀
+- 🌱 The creation of this github profile marks the start of an exciting adventure in the world of IT after completing my studies. Let's see where it takes me! 🚀
 
 <!-- lvl 2 : Adding skills -->
 ## 🌐 Socials:
