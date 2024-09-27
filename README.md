@@ -6,32 +6,34 @@
 - 🌱 This repository marks the start of an exciting adventure in the world of IT after completing my studies. Let's see where it takes me! 🚀
 
 <!-- lvl 2 : Adding skills -->
-### 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mathis Lonchampt](https://www.linkedin.com/in/mathis-lonchampt-0572402ab/)) 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <!-- lvl 3 : Projects -->
-### 👨‍💻 Projects
+## 👨‍💻 Projects
 <div align="center">
   <table>
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                    <a Sudoku Solver </a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="[https://chillflix-radio.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40littleowllabs%2Fsolving-sudoku-with-elixir-d36f40232499&psig=AOvVaw3Yb2pfInfRnbjupQkaO3q3&ust=1727537730405000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDOjdu544gDFQAAAAAdAAAAABAE)" target="_blank" rel="noreferrer"> 
+                        <img src="https://miro.medium.com/v2/resize:fit:748/1*K7nuelC1TIFlwwGMThdBCA.png" alt="Sudoku Solver" width="300"/> 
+                    </a>
                     <p align="center">
-                        A chill radio from youtube to listen Lo-Fi music without being disturbed
+                        Implementation of an algorithm for solving a Sudoku instance
                     </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Vue 2 and typescript. Also use webpack.
-					</details>
+		    <details>
+			<summary>
+			<b>Note 📝</b>
+			</summary>
+			I used PuLP library to solve the Integer Programming problem.
+		    </details>
             </p>
             </td>
         </tr>
