@@ -22,7 +22,7 @@
                     <a Sudoku Solver </a>
                 </h3>
                 <p align="center">
-                    <a href="[https://chillflix-radio.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40littleowllabs%2Fsolving-sudoku-with-elixir-d36f40232499&psig=AOvVaw3Yb2pfInfRnbjupQkaO3q3&ust=1727537730405000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDOjdu544gDFQAAAAAdAAAAABAE)" target="_blank" rel="noreferrer"> 
+                    <a href="https://github.com/LonchamptMathis/sudoku-solver" target="_blank" rel="noreferrer"> 
                         <img src="https://miro.medium.com/v2/resize:fit:748/1*K7nuelC1TIFlwwGMThdBCA.png" alt="Sudoku Solver" width="300"/> 
                     </a>
                     <p align="center">
