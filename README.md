@@ -7,6 +7,6 @@
 
 ### GitHub Stats 📊
 
-![Mathis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Mathis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=LonchamptMathis&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LonchamptMathis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
