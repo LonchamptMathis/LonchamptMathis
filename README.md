@@ -46,7 +46,7 @@
 	        </h3>
 	        <p align="center">
 	          <a href="https://github.com/LonchamptMathis/roma-puzzle-solver" target="_blank" rel="noreferrer">
-	            <img src="https://github.com/LonchamptMathis/roma-puzzle-solver/raw/main/imgs/roma_puzzle.png" alt="Roma Puzzle Solver" width="300"/>
+	            <img src="https://github.com/LonchamptMathis/roma-puzzle-solver/raw/main/imgs/roma_puzzle.png" alt="Roma Puzzle Solver" width="200"/>
 	          </a>
 	        </p>
 	        <p align="center">
