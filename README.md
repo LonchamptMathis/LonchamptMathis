@@ -19,7 +19,9 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a Sudoku Solver </a>
+		    <a href="https://github.com/LonchamptMathis/sudoku-solver" target="_blank" rel="noreferrer"> 
+                    Sudoku Solver
+		    </a>
                 </h3>
                 <p align="center">
                     <a href="https://github.com/LonchamptMathis/sudoku-solver" target="_blank" rel="noreferrer"> 
@@ -36,6 +38,25 @@
 		    </details>
             </p>
             </td>
+	    <td width="50%">
+	        <h3 align="center">
+	          <a href="https://github.com/LonchamptMathis/roma-puzzle-solver" target="_blank" rel="noreferrer">
+	            Roma Puzzle Solver
+	          </a>
+	        </h3>
+	        <p align="center">
+	          <a href="https://github.com/LonchamptMathis/roma-puzzle-solver" target="_blank" rel="noreferrer">
+	            <img src="https://github.com/LonchamptMathis/roma-puzzle-solver/raw/main/imgs/roma_puzzle.png" alt="Roma Puzzle Solver" width="300"/>
+	          </a>
+	        </p>
+	        <p align="center">
+	          Implementation of an algorithm for solving Roma Puzzle instances.
+	        </p>
+	        <details>
+	          <summary><b>Note 📝</b></summary>
+	          Solving Roma puzzles is NP-complete and involves advanced graph theory and constraint satisfaction techniques.
+	        </details>
+	      </td>
         </tr>
   </table>
 </div>
